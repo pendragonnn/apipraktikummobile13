@@ -3,24 +3,24 @@
  "id":1,
  "Name":"Andi",
  "hp":"123456",
- "img": "https://picsum.photos/75/75"
+ "img": "https://picsum.photos/id/180/75/75"
  },
  {
  "id":4,
  "Name":"Budi",
  "hp":"234567",
- "img": "https://picsum.photos/75/75"
+ "img": "https://picsum.photos/id/185/75/75"
  },
  {
  "id":3,
  "Name":"Joko",
  "hp":"345678",
- "img": "https://picsum.photos/75/75"
+ "img": "https://picsum.photos/id/160/75/75"
  },
  {
  "id":2,
  "Name":"Anto",
  "hp":"456789",
- "img": "https://picsum.photos/75/75"
+ "img": "https://picsum.photos/id/166/75/75"
  }
 ]
