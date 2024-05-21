@@ -2,21 +2,25 @@
  {
  "id":1,
  "Name":"Andi",
- "hp":"123456"
+ "hp":"123456",
+ "img": "https://picsum.photos/75/75"
  },
  {
  "id":4,
  "Name":"Budi",
- "hp":"234567"
+ "hp":"234567",
+ "img": "https://picsum.photos/75/75"
  },
  {
  "id":3,
  "Name":"Joko",
- "hp":"345678"
+ "hp":"345678",
+ "img": "https://picsum.photos/75/75"
  },
  {
  "id":2,
  "Name":"Anto",
- "hp":"456789"
+ "hp":"456789",
+ "img": "https://picsum.photos/75/75"
  }
 ]
